@@ -12,29 +12,12 @@ This project aims to develop a classification model to distinguish between benig
 - **Algorithms:** Logistic Regression, SVM, KNN, Naive Bayes, XGBoost, Random Forest, Decision Tree
 - **Tools:** Python, Scikit-learn, XGBoost
 
-## Requirements
-
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-
 ## Installation
 
-To set up the environment and install the necessary packages, create a `requirements.txt` file with the following content:
+Use `pip` to install the required packages from the `requirements.txt` file:
 
-```plaintext
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-flask
-fastapi
+```bash
+pip install -r requirements.txt
 ```
 
 ## Improvement ideas
