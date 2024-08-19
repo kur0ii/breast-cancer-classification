@@ -4,8 +4,13 @@
 
 ## Overview
 
-This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. The model helps medical professionals diagnose breast cancer more accurately and swiftly.
+This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. We achieved an impressive accuracy of **99%** by fine-tuning the logistic regression model.
 
+## Dataset
+
+The dataset used for this project is the Breast Cancer Wisconsin Dataset. It is available at the following link:
+
+- **[Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data))**
 
 ## Features
 
@@ -21,6 +26,7 @@ Use `pip` to install the required packages from the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-## Improvement ideas
+## Author 
 
-To deploy the breast cancer classification model and make it accessible via a web API, you can use **Flask** or **FastAPI**.
+[Michael Diop](https://www.linkedin.com/in/michael-diop-1aa688270/)
+
