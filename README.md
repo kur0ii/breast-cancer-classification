@@ -10,7 +10,7 @@ This project aims to develop a classification model to distinguish between benig
 
 - **Dataset:** Breast Cancer Wisconsin Dataset
 - **Algorithms:** Logistic Regression, SVM, KNN, Naive Bayes, XGBoost, Random Forest, Decision Tree
-- **Tools:** Python, Scikit-learn, XGBoost, Flask/FastAPI (for deployment)
+- **Tools:** Python, Scikit-learn, XGBoost
 
 ## Requirements
 
@@ -21,7 +21,6 @@ This project aims to develop a classification model to distinguish between benig
 - Seaborn
 - Scikit-learn
 - XGBoost
-- Flask/FastAPI (for deployment)
 
 ## Installation
 
@@ -36,3 +35,8 @@ scikit-learn
 xgboost
 flask
 fastapi
+```
+
+## Improvement ideas
+
+To deploy the breast cancer classification model and make it accessible via a web API, you can use **Flask** or **FastAPI**.
