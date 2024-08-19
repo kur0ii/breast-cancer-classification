@@ -4,13 +4,13 @@
 
 ## Overview
 
-This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. We achieved an impressive accuracy of **99%** by fine-tuning the logistic regression model.
+This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. We achieved an impressive accuracy of **99%** by fine-tuning the **logistic regression model**.
 
 ## Dataset
 
 The dataset used for this project is the Breast Cancer Wisconsin Dataset. It is available at the following link:
 
-- **[Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data))**
+- **[Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data)**
 
 ## Features
 
