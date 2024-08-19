@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. We achieved an impressive accuracy of **99%** by fine-tuning the **logistic regression model**.
+This project aims to develop a classification model to distinguish between benign and malignant breast tumors using features from breast biopsy samples. We compared a selection of classification models, and the best model was **logistic regression**. When fine-tuned, it achieved an impressive accuracy of **99%**, demonstrating its effectiveness in diagnosing breast cancer with high precision.
+
 
 ## Dataset
 
